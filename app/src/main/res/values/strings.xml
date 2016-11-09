@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Calculator (My 3rd Android App)</string>
+    <string name="plus_sign">\u002B</string>
+    <string name="minus_sign">\u2212</string>
+    <string name="multiplication_sign">\u00D7</string>
+    <string name="division_sign">\u00F7</string>
+    <string name="period_sign">\u002E</string>
+    <string name="equal_sign">\u003D</string>
+</resources>
